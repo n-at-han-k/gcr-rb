@@ -3,7 +3,7 @@
 Ruby bindings for GCR, handling certificates, keys and the PKCS#11 modules they live in.
 
 ```ruby
-require "gcr"
+require "gcr-rb"
 
 Gcr.constants.size  # the whole namespace, from the typelib
 ```
